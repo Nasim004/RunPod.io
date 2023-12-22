@@ -1,0 +1,5 @@
+#gitignore
+baseten
+.env
+env
+db.sqlite3
